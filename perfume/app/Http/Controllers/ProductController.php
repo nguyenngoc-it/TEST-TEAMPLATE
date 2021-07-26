@@ -14,11 +14,15 @@ class ProductController extends Controller
      * @return \Illuminate\Http\Response
      */
 
-    public function showProduct()
-    {
-        $products= Product::where('category_id',2)->get();
-        return view('backend.products.list ', compact('products'));
-    }
+//    public function showProduct()
+//    {
+//        $products= Product::where('category_id',2)->get();
+//        $products= Product::find(1);
+//        foreach ($products->bills as $bill){
+//                echo $bill->pivot->id;
+//        }
+//        return view('backend.products.list ', compact('products'));
+//    }
 
     public function index()
     {
@@ -45,7 +49,13 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
+
+//        dd($request->file());
+
+        $path= $request->file('fileToUpload')->store('images','public');
+
         $product = new Product();
+        $product->image= $path;
         $product->name = $request->name_product;
         $product->price = $request->price_product;
         $product->category_id = $request->id_category;

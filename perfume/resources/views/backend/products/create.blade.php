@@ -2,7 +2,7 @@
 @section('content')
     <div class="container-fluid content">
         <h3>CREATE PRODUCT</h3>
-        <form method="post" enctype="multipart/form-data" action="{{route('product.store')}}">
+        <form method="post" enctype="multipart/form-data" action="{{route('product.store')}}" >
             @csrf
             <div class="mb-3">
                 <label for="name-product" class="form-label">Name</label>
@@ -14,7 +14,7 @@
             </div>
             @if(isset($categories) && count($categories) > 0)
                 <div class="mb-3">
-                    <label for="FormControlSelectCategories">Categories</label>
+
                     <select class="form-control" id="FormControlSelectCategories" name="id_category">
                         <option>Chon category</option>
                         @foreach($categories as $category)

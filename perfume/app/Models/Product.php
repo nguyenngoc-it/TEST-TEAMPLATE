@@ -20,8 +20,8 @@ class Product extends Model
         return $this->belongsTo(Category::class);
     }
 
-    public function bill()
+    public function bill(): \Illuminate\Database\Eloquent\Relations\BelongsToMany
     {
-        return $this->belongsToMany('App\Models\bill');
+        return $this->belongsToMany(Bill::class);
     }
 }

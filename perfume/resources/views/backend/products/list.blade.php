@@ -10,7 +10,6 @@
                 </a>
                 <div class="col-md-12">
                     <div class="card">
-
                         <div class="card-header card-header-primary">
                             <h4 class="card-title ">Simple Table</h4>
                             <p class="card-category"> Here is a subtitle for this table</p>
@@ -33,10 +32,14 @@
                                         @foreach($products as $product)
                                             <tr>
                                                 <td>{{$product->id}}</td>
-                                                <td>{{$product->image}}</td>
+                                                <td><img src="{{asset('public/storage/images/'.$product->image)}}" alt=""></td>
                                                 <td>{{$product->name}}</td>
                                                 <td>{{$product->price}}</td>
+                                                @if(isset($product->category))
                                                     <td>{{$product->category->name}}</td>
+                                                @else
+                                                    <td></td>
+                                                @endif
                                                 <td>{{$product->describes}}</td>
                                                 <td>{{$product->status}}</td>
                                                 <td>

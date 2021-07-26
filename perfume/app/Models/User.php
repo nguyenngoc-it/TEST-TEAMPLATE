@@ -41,9 +41,11 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function customer()
+
+
+    public function customer(): \Illuminate\Database\Eloquent\Relations\HasOne
     {
-        return $this->hasOne('App\Models\Customer');
+        return $this->hasOne(Customer::class);
 
     }
 }

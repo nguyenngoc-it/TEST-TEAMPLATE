@@ -10,8 +10,8 @@ class Customer extends Model
     use HasFactory;
     public $timestamps=false;
 
-    public function user()
+    public function user(): \Illuminate\Database\Eloquent\Relations\BelongsTo
     {
-        return $this->belongsTo('App\Models\User');
+        return $this->belongsTo(User::class);
     }
 }

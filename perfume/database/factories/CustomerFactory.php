@@ -31,7 +31,7 @@ class CustomerFactory extends Factory
             'phone_number'=>$this->faker->phoneNumber(),
             'email'=>$this->faker->email(),
             'address'=>$this->faker->address(),
-//            'point'=>$this->faker->randomElement(['1','2'])
+            'point'=>$this->faker->randomElement([1,2])
 
 
 
