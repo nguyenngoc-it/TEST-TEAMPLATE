@@ -8,9 +8,23 @@
     <title>Document</title>
 </head>
 <body>
-<form action="discount" method="post">
+<form action="/discount" method="post">
     @csrf
-    <input type="text">
+    <p>
+
+        <input type="text" name="description" placeholder="description">
+    </p>
+    <p>
+
+        <input type="number" name="price" placeholder="price">
+    </p>
+    <p>
+
+        <input type="number" name="discount" placeholder="discount percent">
+    </p>
+    <p>
+        <input type="submit" name="calculate" value="calculate discount">
+    </p>
 </form>
 </body>
 </html>

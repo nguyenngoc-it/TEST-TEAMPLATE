@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10786229-81df-44ee-8173-7e1c078f5239" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BT1/resources/views/dictionary.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-validation/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravelPro/shop/resources/views/display_discount.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravelPro/shop/resources/views/form_discount.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravelPro/shop/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravelPro/shop/resources/views/login_error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravelPro/shop/resources/views/welcome_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projecttest/resources/views/add-author.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projecttest/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/modules/customer/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timezone/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo-MVC/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo-MVC/src/models/Author.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo-MVC/src/models/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Exception/TH.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Exception/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Regex/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Regex/Validate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Regex/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Sort/insertsort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/Sort/selectsort.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/lesson11/BT-1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/lesson11/BT-2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/lesson11/BT-3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul2/lesson11/TH-1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/Data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/Validate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/DataProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/addproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/editproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/product.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/stylelogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/product/updateproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/stylelogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Try-Catch/login/user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/Controler/AuthorController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/Model/Author.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/Model/AuthorModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/Model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/View/backend/author/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/View/backend/author/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/View/backend/author/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/View/backend/layouts/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/app/View/backend/layouts/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/Controller/product/ChanelController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/Model/ChanelModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/Model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/Model/Products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/Model/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/list/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/list/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/list/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/backend/chanel/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/frontend/login/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/frontend/login/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/frontend/regester/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/frontend/regester/regester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/app/View/frontend/regester/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/.idea/casemodul2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Controller/Chanel/ChanelController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Controller/Chanel/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Model/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Model/ProductModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Model/UserModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/Model/Users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/afnan/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/afnan/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/afnan/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/alaia/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/alaia/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/alaia/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/burbery/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/burbery/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/burbery/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/calvinkalein/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/calvinkalein/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/calvinkalein/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/chanel/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/chanel/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/chanel/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/chanel/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/layouts/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/backend/layouts/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/hn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/index/image/nh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/login/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/login/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/login/stylelogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/app/View/frontend/signup/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/js/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/trangchu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/dowload.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/dowload1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/uploads/down1load.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casemodul2/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectdb/BaseModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../connectdb/BaseModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectdb/ConnectDb.php" beforeDir="false" afterPath="$PROJECT_DIR$/../connectdb/ConnectDb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectdb/addemployees.php" beforeDir="false" afterPath="$PROJECT_DIR$/../connectdb/addemployees.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectdb/editdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/../connectdb/editdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectdb/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../connectdb/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_sql/views/add-author.php" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_sql/views/add-author.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_sql/views/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_sql/views/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-mvc/app/Controller/AuthorController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du_an_hack/my-project/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du_an_hack/my-project/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du_an_hack/my-project/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du_an_hack/my-project/product-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../du_an_hack/my-project/shop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hackathon/Data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hackathon/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hackathon/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hackathon/product.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../login/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../login/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../login/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/DataProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/addproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/editproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/product.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product/updateproduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vaBzaeTT46ol77AeNXADFMsvI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../view-balade-teamplate" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10786229-81df-44ee-8173-7e1c078f5239" name="Default Changelist" comment="" />
+      <created>1626790583258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626790583258</updated>
+      <workItem from="1626790584901" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

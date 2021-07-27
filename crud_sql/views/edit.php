@@ -1,4 +1,3 @@
-
 <?php
 include_once 'layout/header.php';
 include_once '../Authorcontrol.php';
@@ -8,7 +7,6 @@ if (isset($_REQUEST['id'])){
     $id=$_REQUEST['id'];
    $au=  $ac->getByID($id);
 }
-
 ?>
 
 <!doctype html>

@@ -46,7 +46,7 @@ include_once 'layout/header.php'
         $lastName=$_POST['last-name'];
         $email=$_POST['email'];
         $birthdAuate= $_POST['birthdate'];
-        $author= new Author($firstName,$lastName,$email,$birthdate);
+        $author= new Author($firstName,$lastName,$email,$birthdAuate);
         $ac->create($author);
         header("location:../index.php");
     }
