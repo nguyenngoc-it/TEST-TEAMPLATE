@@ -1,9 +1,6 @@
 <?php
 
-use App\Http\Controllers\AuthorController;
 use Illuminate\Support\Facades\Route;
-
-
 
 /*
 |--------------------------------------------------------------------------
@@ -16,18 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
-Route::get('/', [AuthorController::class,'showdata'])->name('showdata');
-
-
-Route::post('/add-author', function (){
-    return view('add-author');
-})->name('add');
-Route::post('/create-author', [AuthorController::class,'create'])->name('author-add');
-
-Route::get('/user/profile', [UserController::class ,'profile']);
-
-Route::resource('user', 'UserController');
-
-
-
+Route::get('/', function () {
+    return view('welcome');
+});
